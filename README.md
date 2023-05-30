@@ -7,3 +7,7 @@
   - sudo ln -s ~/nvim.appimage /usr/bin/nvim
   - alias nvim="~/nvim.appimage"
 - nvim on terminal and you are good to go :)
+
+## Uninstalling neovim
+- rm -rf ~/.config/nvim
+- rm -rf ~/.local/share/nvim
