@@ -9,5 +9,5 @@
 - nvim on terminal and you are good to go :)
 
 ## Uninstalling neovim
-- rm -rf ~/.config/nvim
-- rm -rf ~/.local/share/nvim
+- `rm -rf ~/.config/nvim`
+- `rm -rf ~/.local/share/nvim`
