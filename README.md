@@ -12,3 +12,10 @@
 - `rm -rf ~/.config/nvim`
 - `rm -rf ~/.local/share/nvim`
 - `rm -rf ~/.local/state/nvim`
+
+## Shortcuts
+- `nvim . or vim .` - to start vim/nvim in current directory.
+- `%` - Create a new file.
+- `d` - Create a new directory.
+- `:Ex` - Explore
+- `:so` - Source
